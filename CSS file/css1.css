@@ -1,0 +1,103 @@
+
+#id1{
+	border-radius: 100px 100px 100px 100px;
+	margin-left: 20px;
+	margin-top: 50px;
+	/*transition: width 300ms ease-in-out;
+	transition: height 300ms ease-in-out;*/
+	transition: transform 300ms ease-in-out;
+}
+
+.c1 :hover{
+	/*width: 220px;
+	height: 220px;*/
+	transform: rotate(30deg);
+	/*border-top-width: 220px;
+	border-left-width: 220px;*/
+	/*border-radius: 150px 150px 150px 150px;*/
+
+}
+#tuteHeading{
+	margin-left: 290px;
+	margin-top: -200px;
+	font-family: Arial;
+}
+#tuteBody{
+	margin-left: 290px;
+}
+#tuteHeading1{
+	margin-left: 290px;
+	margin-top: -200px;
+	font-family: Arial;
+}
+#tuteBody1{
+	margin-left: 290px;
+}
+
+#tuteHeading2{
+	margin-left: 290px;
+	margin-top: -200px;
+	font-family: Arial;
+}
+#tuteBody2{
+	margin-left: 290px;
+}
+
+/*
+#table1{
+	width: 1350px;
+	height: 500px;
+}*/
+#div1{
+	width: 750px;
+	height: 300px;
+	background-color:  #d8cc95;
+	opacity: 0.8;
+}
+
+#div2{
+	width: 750px;
+	height: 300px;
+	background-color:  #d8cc95;
+	opacity: 0.8;
+	margin-left: 600px;
+}
+
+#div3{
+	width: 750px;
+	height: 300px;
+	background-color:  #d8cc95;
+	opacity: 0.8;
+}
+#div4{
+	width: 100%;
+	height: 100px;
+	background-color:  #d8cc95;
+	font-size: 38pt;
+	opacity: 0.8;
+	font-family: Impact;
+
+}
+
+#About{
+	text-decoration: none;
+	font-size: 20pt;
+	font-family: Impact;
+	display:block;
+	width:120px; 
+	height:40px;
+	padding-top: 2px;
+	padding-left: 10px; 
+	background:#4b91f1; 
+	box-sizing:border-box;
+	margin-left: 1200px;
+	margin-top: -300px;
+	margin-bottom: 300px;
+	border-style: double;
+	transition: border-radius 300ms ease-in-out;
+}
+
+#About:hover{
+	border-radius: 40px 40px 40px 40px;
+
+}

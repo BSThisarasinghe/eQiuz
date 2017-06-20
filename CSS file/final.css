@@ -1,0 +1,57 @@
+#gif{
+	margin-top: 40px;
+	margin-left: 450px;
+}
+#star{
+	width: 100px;
+	height: 100px;
+}
+#goldstar{
+	width: 100px;
+	height: 100px;
+	margin-left: 500px;
+}
+#pass{
+	margin-left: 460px;
+	font-family: Impact;
+	font-size: 28pt;
+	color:   #a7cb2a;
+}
+#black{
+	width: 100%;
+	height: 60px;
+	background-color: #000001;
+}
+.para{
+	color:  #cccdcf;
+	padding-top: 20px;
+	padding-left: 200px;
+}
+.finish{
+	text-decoration: none;
+	color: #cccdcf;
+	padding-left: 700px;
+}
+.finish:hover{
+	color: #fdfefe;
+	border-bottom-color: #fdfefe;
+}
+.final{
+	text-decoration: none;
+	color: #cccdcf;
+}
+.final:hover{
+	color: #fdfefe;
+	border-bottom-color: #fdfefe;
+}
+
+#bottom{
+	width: 100%;
+	height: 60px;
+	background-color: #000001;
+}
+#last{
+	color: #cccdcf;
+	padding-left: 200px;
+	padding-top: 20px;
+}

@@ -1,0 +1,59 @@
+#topic{
+	background-color: black;
+	height: 120px;
+	width: 100%;
+	color: white;
+	font-size: 50pt;
+	padding-left: 10px;
+	padding-top: 30px;
+}
+#img1{
+	width: 20%;
+	height: 20%;
+	margin-top: 1%;
+}
+#img2{
+	width: 20%;
+	height: 20%;
+}
+#img3{
+	width: 20%;
+	height: 20%;
+}
+#buwa{
+	background-color: #d8cc95;
+	height: 280px;
+	width: 70%;
+	margin-left: 25%;
+	margin-top: -20%;
+	font-family: Arial;
+	font-size: 25pt;
+	text-align: center;
+	padding-top: 60px;
+}
+#shameera{
+	background-color: #d8cc95;
+	height: 280px;
+	width: 70%;
+	margin-left: 25%;
+	margin-top: -22%;
+	font-family: Arial;
+	font-size: 25pt;
+	text-align: center;
+	padding-top: 80px;
+}
+#lahiru{
+	background-color: #d8cc95;
+	height: 290px;
+	width: 70%;
+	margin-left: 25%;
+	margin-top: -22%;
+	font-size: 25pt;
+	font-family: Arial;
+	text-align: center;
+	padding-top: 80px;
+}
+#bigDiv{
+	width: 1700px;
+	margin: 0 auto;
+}
